@@ -1,4 +1,6 @@
-﻿# AutoRetainer
+汉化了界面
+ 
+ # AutoRetainer
 Collect and assign ventures to your retainers from the comfort of your bed.
 ## Become a Supporter!
 If you like AutoRetainer or any of the other plugins I maintain, please consider becoming a supporter on Patreon or via other means! This will help me to continue updating AutoRetainer and work on new plugins and features.
